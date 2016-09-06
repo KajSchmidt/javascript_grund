@@ -1,0 +1,18 @@
+
+.ruta {
+	border: thin solid;
+	border-radius: 25px;
+	margin: 10px auto 25px auto;
+	width: 500px;
+	padding:15px;
+}
+
+#ruta1 {
+	background-color: #fdeded;
+	border-color: #faeaea;
+}
+
+#ruta2 {
+	background-color: #edfded;
+	border-color: #eafaea;
+}
